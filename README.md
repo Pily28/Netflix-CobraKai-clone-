@@ -4,7 +4,8 @@ Description
 
 This is a Netflix Cobra Kai presentation, this one has a different design about this interesting serie, where it shows Action and Adventure, was inspired to do this clone
 
-https://user-images.githubusercontent.com/87598302/152097979-1ce74555-7de0-4420-9307-5195dbd1edcf.png" width="20px>
+
+![netflix-clone](https://user-images.githubusercontent.com/87598302/152098232-172046d5-6bc0-4b70-921a-6874676ef227.png width=20px)
 
 
 Programming languages
